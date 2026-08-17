@@ -1,1 +1,5 @@
 # CCN3-Proyecto-Final
+
+Este proyecto contiene la implementación de la infraestructura de red, alta disponibilidad y
+túneles VPN IPsec para conectar la sede central (**Santo Domingo**) con sus sucursales regionales 
+(**Santiago**, **La Romana**, **Barahona** y **Puerto Plata**).
